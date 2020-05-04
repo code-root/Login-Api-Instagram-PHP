@@ -12,7 +12,7 @@ If the account is already logged in, the account information is updated for each
 
 The script works with Ajax technology
 
-Design using
+Design using bootstrap
 
 The login interface is similar to the Instagram login interface
 
